@@ -39,9 +39,9 @@ tracker:
     title: 错误告警
 ```
 说明：
-*enable:是否发送钉钉消息
-*title:消息的title
-*webHook:消息的链接
+* enable:是否发送钉钉消息
+* title:消息的title
+* webHook:消息的链接
 
 ## TODO
 1. 发送到钉钉的错误告警格式通过配置自定义
